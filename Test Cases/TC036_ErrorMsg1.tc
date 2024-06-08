@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC036_ErrorMsg1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b5be50f2-210a-4b1f-9e8a-fbd6bd989853</testCaseGuid>
+</TestCaseEntity>

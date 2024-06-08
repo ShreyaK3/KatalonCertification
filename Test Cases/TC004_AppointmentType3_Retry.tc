@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004_AppointmentType3_Retry</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9e9b7478-c37a-4b70-befd-5de76ee21d0d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC021_AppointmentType18</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>33580fe1-b8c4-42e7-ae36-2997dc464099</testCaseGuid>
+</TestCaseEntity>
