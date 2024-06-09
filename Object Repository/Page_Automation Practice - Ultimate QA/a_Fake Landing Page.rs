@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>a65a5fdd-d3df-4541-ba2e-5df147fae4ff</webElementGuid>
+      <webElementGuid>ea6860f6-956b-46cc-be1d-9a3f0c40f613</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>../fake-landing-page</value>
-      <webElementGuid>580826b0-60f6-41d6-99ae-b5dce1787453</webElementGuid>
+      <webElementGuid>687b349e-7fba-4bf3-97eb-e65d309c4d60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Fake Landing Page</value>
-      <webElementGuid>2a04896e-ab15-483b-8317-d590f7b4d784</webElementGuid>
+      <webElementGuid>73d31658-cc39-4f3c-bc4d-29da4589c121</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;post-507&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;et-l et-l--post&quot;]/div[@class=&quot;et_builder_inner_content et_pb_gutters2&quot;]/div[@class=&quot;et_pb_section et_pb_section_1 et_pb_with_background et_section_specialty&quot;]/div[@class=&quot;et_pb_row et_pb_row_3-4_1-4&quot;]/div[@class=&quot;et_pb_column et_pb_column_3_4 et_pb_column_1   et_pb_specialty_column  et_pb_css_mix_blend_mode_passthrough&quot;]/div[@class=&quot;et_pb_row_inner et_pb_row_inner_0&quot;]/div[@class=&quot;et_pb_column et_pb_column_4_4 et_pb_column_inner et_pb_column_inner_0 et-last-child&quot;]/div[@class=&quot;et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light&quot;]/div[@class=&quot;et_pb_text_inner&quot;]/ul[1]/li[2]/a[1]</value>
-      <webElementGuid>37b34eaf-fb03-4d8d-a5e8-9329a2adf7ac</webElementGuid>
+      <webElementGuid>ef384e8e-facc-4a77-b292-7241795453d6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//article[@id='post-507']/div/div/div/div[2]/div/div/div/div/div/div/ul/li[2]/a</value>
-      <webElementGuid>690a04ff-6c7b-4f8e-840e-c6242a4cde3f</webElementGuid>
+      <webElementGuid>8ca44bd9-9b64-4655-8119-af258d0ab5d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Fake Landing Page')]</value>
-      <webElementGuid>09444c70-faaf-45cf-acc7-88058e15ecbf</webElementGuid>
+      <webElementGuid>df5b8e60-2b63-4fa6-884a-927b6f1d348b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Big page with many elements'])[1]/following::a[1]</value>
-      <webElementGuid>ba655417-23db-4f29-843c-fabc1598bf31</webElementGuid>
+      <webElementGuid>9e8a234b-5971-4080-9b61-b2421eafdd72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Use your skills to learn how to automate different scenarios'])[1]/following::a[2]</value>
-      <webElementGuid>50c442f7-6d3b-4209-9ad8-12d376dd65cd</webElementGuid>
+      <webElementGuid>66820167-8c2e-45b2-8674-621fe8773753</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Fake Pricing Page'])[1]/preceding::a[1]</value>
-      <webElementGuid>02aa01bc-6626-4214-9f1c-dcbc9ab5ac52</webElementGuid>
+      <webElementGuid>b18c61ec-b420-4ca4-9d6c-240a4c7a1910</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Fill out forms'])[1]/preceding::a[2]</value>
-      <webElementGuid>ff25532f-2852-4293-847a-979f9a4b73d3</webElementGuid>
+      <webElementGuid>01d6f339-d5dd-4359-88f7-8500901b0487</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Fake Landing Page']/parent::*</value>
-      <webElementGuid>af5f7978-b7e2-41ab-a7ba-2533e1dc6a37</webElementGuid>
+      <webElementGuid>5441bfc0-095c-4274-83b6-278541f353b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '../fake-landing-page')]</value>
-      <webElementGuid>179bfa6e-0b9a-43cb-b1d2-25be6e14fbc2</webElementGuid>
+      <webElementGuid>6f1a9bfb-120a-4076-b071-3a911a3366bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/div/div/ul/li[2]/a</value>
-      <webElementGuid>af935278-37ff-406a-ad07-be8d5bc76b27</webElementGuid>
+      <webElementGuid>0b53e859-30b0-4018-ad39-e8b455e2618e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '../fake-landing-page' and (text() = 'Fake Landing Page' or . = 'Fake Landing Page')]</value>
-      <webElementGuid>c7bdf4d0-0cf5-4c44-9f5e-509fbc0519b3</webElementGuid>
+      <webElementGuid>66f515a4-ad90-40c4-90dc-b063594bbe71</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

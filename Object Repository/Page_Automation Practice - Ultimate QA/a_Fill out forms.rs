@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//article[@id='post-507']/div/div/div/div[2]/div/div/div/div/div/div/ul/li[4]/a</value>
+         <value></value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>a2a5e842-b666-4d0e-8751-9ae0e7aa0d09</webElementGuid>
+      <webElementGuid>f310a7b9-912a-4612-ac58-d03ab3bf62f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://ultimateqa.com/filling-out-forms/</value>
-      <webElementGuid>5db3b4ab-b873-40f5-8a86-fab0adb96af9</webElementGuid>
+      <webElementGuid>048bc1e1-c170-4445-b9b5-2e659b2f898a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Fill out forms</value>
-      <webElementGuid>8851c77f-8fcb-4d4f-bc77-76ff4b2e3d2f</webElementGuid>
+      <webElementGuid>8c051282-7bea-4ecf-a478-7cc9baaad65e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;post-507&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;et-l et-l--post&quot;]/div[@class=&quot;et_builder_inner_content et_pb_gutters2&quot;]/div[@class=&quot;et_pb_section et_pb_section_1 et_pb_with_background et_section_specialty&quot;]/div[@class=&quot;et_pb_row et_pb_row_3-4_1-4&quot;]/div[@class=&quot;et_pb_column et_pb_column_3_4 et_pb_column_1   et_pb_specialty_column  et_pb_css_mix_blend_mode_passthrough&quot;]/div[@class=&quot;et_pb_row_inner et_pb_row_inner_0&quot;]/div[@class=&quot;et_pb_column et_pb_column_4_4 et_pb_column_inner et_pb_column_inner_0 et-last-child&quot;]/div[@class=&quot;et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light&quot;]/div[@class=&quot;et_pb_text_inner&quot;]/ul[1]/li[4]/a[1]</value>
-      <webElementGuid>6cb90a2e-081d-4c09-a0be-fa409c6743fc</webElementGuid>
+      <webElementGuid>6ab464fa-cdd5-4f89-aa55-e81ecb0c02b3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//article[@id='post-507']/div/div/div/div[2]/div/div/div/div/div/div/ul/li[4]/a</value>
-      <webElementGuid>0b01a0ff-59b2-4d91-90bc-4538882eeaec</webElementGuid>
+      <webElementGuid>bcad26c0-8c02-4294-b2a5-0c5ebcfaba6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Fill out forms')]</value>
-      <webElementGuid>89425703-ae1d-4b20-8f2b-7f94ee2cb9f9</webElementGuid>
+      <webElementGuid>8a818e11-03a5-40ba-9c28-6d20574c3c99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Fake Pricing Page'])[1]/following::a[1]</value>
-      <webElementGuid>8c2f17b6-aedb-4c88-8324-d945d00ac8d1</webElementGuid>
+      <webElementGuid>f9b1d132-2f27-40f5-b18a-ab04aedf6720</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Fake Landing Page'])[1]/following::a[2]</value>
-      <webElementGuid>fe09df82-3280-472d-b9bd-ab54b196ed1e</webElementGuid>
+      <webElementGuid>063540e5-eeaf-47f0-84d0-6ea6784bc86e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn how to automate an application that evolves over time'])[1]/preceding::a[1]</value>
-      <webElementGuid>f87da2d2-0743-4756-a1cf-6a685cc7ce59</webElementGuid>
+      <webElementGuid>9b257377-a273-4eba-8760-094219fa83e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Login automation'])[1]/preceding::a[2]</value>
-      <webElementGuid>5ae3db73-36ca-4922-b3d8-79f1e519d52e</webElementGuid>
+      <webElementGuid>b283b3ed-78a8-4869-a379-e884084a868b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Fill out forms']/parent::*</value>
-      <webElementGuid>8104b583-674d-4319-925a-989c1cb75ea7</webElementGuid>
+      <webElementGuid>44abcf3b-f878-479d-82a1-80fe97c7f63d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://ultimateqa.com/filling-out-forms/')]</value>
-      <webElementGuid>1cbc1741-d288-453e-921f-a579ab4c94e1</webElementGuid>
+      <webElementGuid>96988b1f-bd0b-4cfe-a2e4-2b1b785025c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div/div/div/ul/li[4]/a</value>
-      <webElementGuid>68f16d68-6cf0-4b02-9cda-bf86db2402a5</webElementGuid>
+      <webElementGuid>9d6cd553-a24e-46df-8df4-e1078d1370bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://ultimateqa.com/filling-out-forms/' and (text() = 'Fill out forms' or . = 'Fill out forms')]</value>
-      <webElementGuid>266235ef-bf4a-4a4b-9c02-a40839938f2e</webElementGuid>
+      <webElementGuid>ba986c41-13a4-4662-92e1-b500990cb6fd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
